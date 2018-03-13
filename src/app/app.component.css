@@ -1,0 +1,6 @@
+/*Es un archivo para escribir reglas CSS solo para este componente*/
+
+h1 {
+    color: orangered;
+    font-size: 50px;
+}
